@@ -93,8 +93,7 @@ This applicaiton helps users create simple logos for their projects, without the
 
 ### Built With
 
-* [![node-js][nodejs.org]][nodejs-url]
-* [![npm][npmjs.com]][npm-url]
+* [![npm][npm]][npm-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,12 +175,5 @@ Project Link: [https://github.com/Nalipas/SVG-Logo-Maker](https://github.com/Nal
 [linkedin-url]: https://linkedin.com/in/msteven14
 [product-screenshot]: ./assets/SVGLogoMakerScreenshot.png
 
-[nodejs]: https://img.shields.io/npm/v/npm.svg?logo=nodedotjs
-[nodejs-url]: https://nodejs.org/
-[npm]: https://img.shields.io/badge/npm.
+[npm]: https://img.shields.io/npm/v/npm.svg?logo=nodedotjs
 [npm-url]: https://www.npmjs.com/
-
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
