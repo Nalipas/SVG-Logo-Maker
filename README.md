@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nalipas/SVG-Logo-Maker">
-    <img src="./assets/images/pepesadrain.gif" alt="pepesadrain" width="80" height="80">
+    <img src="./assets/pepesadrain.gif" alt="pepesadrain" width="80" height="80">
   </a>
 
-<h3 align="center">Weather Dashboard</h3>
+<h3 align="center">SVG Logo Maker</h3>
 
   <p align="center">
-    project_description
+    A simple Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.
     <br />
     <a href="https://github.com/Nalipas/SVG-Logo-Maker"><strong>Explore the docs »</strong></a>
     <br />
